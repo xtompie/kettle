@@ -23,10 +23,10 @@ TAGS = [["productivity", "prioritization", "gtd"], ["time-management", "teamwork
 URL = "github.com/xtompie/kettle"
 
 THEMES = {
-    "dark": dict(bg="#0a0907", main="#3fb950", light="#a7e3b3",
-                 h1="#f3ead8", h3="#cfc6b4", tag="#2b7a3a", tagtext="#a7e3b3", url="#8a7a5c"),
-    "light": dict(bg=None, main="#2e8b3e", light="#6cc47c",
-                  h1="#1f1a12", h3="#4a4234", tag="#6cc47c", tagtext="#2e8b3e", url="#7a6440"),
+    "dark": dict(bg="#0a0907", main="#4fa95b", light="#afdbb8",
+                 h1="#f3ead8", h3="#cfc6b4", tag="#357040", tagtext="#afdbb8", url="#8a7a5c"),
+    "light": dict(bg=None, main="#3a7f46", light="#77b983",
+                  h1="#1f1a12", h3="#4a4234", tag="#77b983", tagtext="#3a7f46", url="#7a6440"),
 }
 
 # 5x7 pixel letters; lowercase starts at row 2 and nothing goes below row 6.
