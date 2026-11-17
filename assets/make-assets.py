@@ -17,8 +17,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 FONT = sys.argv[1]
 
 TITLE = "kettle"
-H3A = "Put the kettle on first."
-H3B = "Start first what others are waiting for."
+H3A = "A task ordering method: hand off first,"
+H3B = "prepare for others next, do your own work last."
 TAGS = [["productivity", "prioritization", "gtd"], ["time-management", "teamwork", "async-work"]]
 URL = "github.com/xtompie/kettle"
 

@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="kettle. Put the kettle on first. Start first what others are waiting for.">
+  <img src="assets/banner-light.svg" alt="kettle. A task ordering method: hand off first, prepare for others next, do your own work last.">
 </picture>
 
-Sort your tasks by how much they depend on other people's time.
+**Put the kettle on first.** Sort your tasks by how much they depend on other people's time.
 
 ## In short
 
